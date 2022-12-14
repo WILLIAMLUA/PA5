@@ -1,3 +1,6 @@
+//William Lua
+//Mariah Salgado
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
